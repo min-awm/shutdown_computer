@@ -7,7 +7,7 @@ build-backend = "setuptools.build_meta"
 
 [project]
 name = "shutdown_computer"
-version = "0.0.1"
+version = "0.0.2"
 authors = [
   { name="Min", email="minha05112003a@gmail.com" },
 ]
@@ -21,5 +21,5 @@ classifiers = [
 ]
 
 [project.urls]
-Homepage = "https://github.com/pypa/sampleproject"
-Issues = "https://github.com/pypa/sampleproject/issues"
+Homepage = "https://github.com/min-awm/shutdown_computer"
+Issues = "https://github.com/min-awm/shutdown_computer/issues"

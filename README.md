@@ -7,7 +7,7 @@ A package shutdown computer
 Use the package manager [pip](https://pip.pypa.io/en/stable/) to install shutdown_computer.
 
 ```bash
-pip install shutdown_computer
+pip install shutdown-computer
 ```
 
 ## Usage
